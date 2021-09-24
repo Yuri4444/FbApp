@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245756411857",
+    "project_id": "fbapp-1632477761325",
+    "storage_bucket": "fbapp-1632477761325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245756411857:android:6ac2dc011afc00d76a6af0",
+        "android_client_info": {
+          "package_name": "com.example.fbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245756411857-mpl8adnc73ic6jpdqu2ittsuc2s7nlb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3b08cqOK8mJs-fgKZpKAYJ61FaCwZqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245756411857-mpl8adnc73ic6jpdqu2ittsuc2s7nlb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

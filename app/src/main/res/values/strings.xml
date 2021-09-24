@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FbApp</string>
+    <string name="facebook_app_id">569018951187998</string>
+    <string name="fb_login_protocol_scheme">fb569018951187998</string>
+    <string name="server_client_id">747331626872-l9t8ank93kcu67lijd5h4g3noj0mssqi.apps.googleusercontent.com</string>
+
+</resources>
